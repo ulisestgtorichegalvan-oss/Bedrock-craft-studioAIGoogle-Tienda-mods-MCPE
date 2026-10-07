@@ -1,5 +1,6 @@
 {
   "appId": "com.bedrockcraft.tienda",
   "appName": "Bedrock Craft Tienda",
-  "webDir": "."
+  "webDir": "www"
 }
+
