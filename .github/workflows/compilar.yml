@@ -27,6 +27,8 @@ jobs:
 
     - name: Crear plataforma Android
       run: |
+        mkdir www
+        cp index.html www/
         npx cap add android
         npx cap sync android
 
